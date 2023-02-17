@@ -31,17 +31,19 @@ body{
     padding:0;
     text-align:left;
     border:1px solid #ddd;
-    margin:0 auto
+    margin:0 auto;
+    background-color: white;
+    color: #333;
 }
 
 #container h1{
     font-size:20px
 }
 
-#post{
-    background-color: #333;
-    color: #ddd;
-}
+/* #post{
+    background-color: #ddd;
+    color: #333;
+} */
 #footer {
     display: flex;
     align-items: center;
